@@ -1,6 +1,7 @@
 const add = ({ x, y }) => {
   const b = x;
   const d = y;
+  const add2 = b + d;
 
   return b + d;
 };
